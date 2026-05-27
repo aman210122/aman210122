@@ -27,9 +27,9 @@ My independent research focuses on what breaks when LLM systems operate at scale
 | PHI-GUARD (Compliance-Aware LLM Routing) | Under review | IEEE JBHI |
 | ContamPerc (Contamination Percolation) | Under review | IEEE Access |
 | MedMI-Bench (Clinical MCQ Benchmark) | Under review | JMIR AI |
-| GEG (Governance Effectiveness Gap) | Targeting | npj Digital Medicine |
+| GEG (Governance Effectiveness Gap) | Under review | BCM MDIM |
 | TEMPORAL-MED (Temporal Consistency) | Targeting | JMIR AI |
-| GNC (Governance Non-Compositionality) | Targeting | NeurIPS 2026 |
+
 
 **GAIF Framework**: GAIF-4 v1.5 defines four quantitative metrics for AI governance health: EMR (Emergent Misinformation Rate), T1PR (Tier-1 Percolation Rate), CFR (Compliance Failure Rate), GDR (Governance Decay Rate).
 

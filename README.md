@@ -25,7 +25,7 @@ My independent research focuses on what breaks when LLM systems operate at scale
 |---|---|---|
 | EMG (Emergent Misinformation Genesis) | Preprinted | Targeting NeurIPS 2026 D&B |
 | PHI-GUARD (Compliance-Aware LLM Routing) | Under review | IEEE JBHI |
-| ContamPerc (Contamination Percolation) | Under review | IEEE Access |
+| ContamPerc (Contamination Percolation) | Accepted | IEEE Access |
 | MedMI-Bench (Clinical MCQ Benchmark) | Under review | JMIR AI |
 | GEG (Governance Effectiveness Gap) | Under review | BCM MDIM |
 | TEMPORAL-MED (Temporal Consistency) | Targeting | JMIR AI |
